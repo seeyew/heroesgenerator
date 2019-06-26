@@ -18,7 +18,7 @@ if ( XMLHttpRequest.prototype.sendAsBinary === undefined ) {
 
 window.fbAsyncInit = function() {
     FB.init({
-      appId  : "404477149649756",
+      appId  : "391964088080929",
       status : true,
       cookie : true,
       xfbml  : true  // parse XFBML
